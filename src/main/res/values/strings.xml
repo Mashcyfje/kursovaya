@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Proj</string>
+    <string name="title_home">Calendar</string>
+    <string name="title_dashboard">Music</string>
+    <string name="title_notifications">Water</string>
+    <string name="title_second">Timer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Разработали проект \n\nВетрова Мария \n\nАкберова Рамила \n\nгруппа 351912 </string>
+
+    <string name="stop">Stop Timer</string>
+    <string name="start">Start Timer</string>
+    <string name="working">Started</string>
+    <string name="stopped">Stopped</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hint_word">Word…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+    <string name="add_word">Add word</string>
+    <string name="about">about</string>
+
+    <string name="congratulations">Congratulations! You have drank all 5 glasses for today!</string>
+    <string name="reset">Reset</string>
+    <string name="notify_after">Notify after </string>
+    <string name="how_many">how many?</string>
+    <string name="mins_not_drinking">minutes of not drinking.</string>
+    <string name="ok">OK</string>
+    <string name="currently_running">Water alarm is currently running</string>
+    <string name="not_running">Water alarm is currently not running</string>
+    <string name="drink_water">Drink water!!!</string>
+    <string name="no_empty_minutes">Notify after minutes cannot be empty</string>
+</resources>
